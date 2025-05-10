@@ -5,8 +5,11 @@ Fraudulent insurance claims cost the industry billions of dollars annually. This
 Overview:
 
 Problem: Detect and flag fraudulent insurance claims based on claim metadata
+
 Dataset: 1,000+ real-world insurance claim records with mixed data types
+
 Goal: Build and evaluate models that can predict whether a claim is fraudulent
+
 Tech Stack: Python, Pandas, scikit-learn, XGBoost, Matplotlib, Seaborn
 
 Dataset Details:
