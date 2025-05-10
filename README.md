@@ -25,16 +25,16 @@ Features:
 
 Exploratory Data Analysis (EDA):
 
-Visualized class imbalance and key categorical variables
-Explored correlations and feature distributions
-Assessed null values and feature cardinality
+  * Visualized class imbalance and key categorical variables
+  * Explored correlations and feature distributions
+  * Assessed null values and feature cardinality
 
 Data Preprocessing:
 
-Label encoding of the target variable (`fraud_reported`)
-One-hot encoding for categorical features
-Handled missing values and irrelevant columns
-Performed an 80/20 train-test split
+  * Label encoding of the target variable (`fraud_reported`)
+  * One-hot encoding for categorical features
+  * Handled missing values and irrelevant columns
+  * Performed an 80/20 train-test split
 
 Model Training & Evaluation:
 
@@ -48,30 +48,31 @@ Implemented and compared the following classifiers:
 
 Best Performing Model: **XGBoost**
 
-Provided the most balanced precision and recall
-Especially effective in reducing false negatives, critical for fraud detection
+  * Provided the most balanced precision and recall
+  * Especially effective in reducing false negatives, critical for fraud detection
 
 Visual Insights:
 
-Confusion Matrices for all models
-Classification Reports
-Feature Correlation Heatmaps
-Target Distribution Plot
+  * Confusion Matrices for all models
+  * Classification Reports
+  * Feature Correlation Heatmaps
+  * Target Distribution Plot
 
 Future Improvements:
 
-Address class imbalance using SMOTE or class weights
-Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
-SHAP or LIME for model interpretability
-Deploy the best model with a simple Flask or Streamlit app
+  * Address class imbalance using SMOTE or class weights
+  * Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
+  * SHAP or LIME for model interpretability
+  * Deploy the best model with a simple Flask or Streamlit app
 
 Skills Demonstrated:
 
-Data wrangling & EDA
-Feature engineering & encoding
-Binary classification & model evaluation
-Confusion matrix and performance metric interpretation
-End-to-end project pipeline in Jupyter Notebook
+  * Data wrangling & EDA
+  * Feature engineering & encoding
+  * Binary classification & model evaluation
+  * Confusion matrix and performance metric interpretation
+  * End-to-end project pipeline in Jupyter Notebook
 
 Author:
+
 Deepakshi Mathur
