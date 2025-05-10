@@ -1,4 +1,4 @@
-Insurance Fraud Detection using Machine Learning
+**Insurance Fraud Detection using Machine Learning**
 
 Fraudulent insurance claims cost the industry billions of dollars annually. This project leverages supervised machine learning techniques to detect such claims and help insurers make data-driven decisions. Using classification models and real-world data, we aim to accurately distinguish between fraudulent and legitimate insurance claims.
 
